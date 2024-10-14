@@ -139,11 +139,10 @@ label {
 input,
 button {
   border: 1px solid #273c55;
-  border-radius: 8px;
   padding: 12px 16px;
   font-family: unset;
   font-size: 16px;
-  border-radius: 30px;
+  border-radius: 22px;
   box-shadow: 0 0 0 1.5px #7379835f;
 }
 
