@@ -34,7 +34,11 @@ main,
 main {
   background-color: #ffffff;
 }
-
+nav{
+  position: sticky;
+  top: 0;
+  background-color: #ffffff9a;
+}
 h1 {
   display: flex;
   align-items: center;
@@ -43,7 +47,6 @@ h1 {
   font-size: 24px;
   color :  #042a30;
   height: 50px;
-  
 }
 
 
@@ -160,4 +163,6 @@ button:focus-visible {
 
 button:hover {
   opacity: 0.95;
+  color: #042a30;
+  background-color: white;
 }
